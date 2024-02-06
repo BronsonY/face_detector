@@ -1,0 +1,5 @@
+# Ignore Python-specific cache directory
+__pycache__/*
+
+# Ignore virtual environment directory
+faceenv/*
